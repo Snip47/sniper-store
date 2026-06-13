@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8002";
+const API_URL = "https://sniper-store.onrender.com";
 
 export interface App {
   id: string;
